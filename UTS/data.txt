@@ -1,0 +1,28 @@
+Negara: Qatar U-23
+Jumlah Pertandingan: 3
+Jumlah Menang: 2
+Jumlah Seri: 1
+Jumlah Kalah: 0
+Jumlah Point: 7
+
+Negara: Indonesia U-23
+Jumlah Pertandingan: 3
+Jumlah Menang: 2
+Jumlah Seri: 0
+Jumlah Kalah: 1
+Jumlah Point: 6
+
+Negara: Australia U-23
+Jumlah Pertandingan: 3
+Jumlah Menang: 0
+Jumlah Seri: 2
+Jumlah Kalah: 1
+Jumlah Point: 2
+
+Negara: Yordania U-23
+Jumlah Pertandingan: 3
+Jumlah Menang: 0
+Jumlah Seri: 1
+Jumlah Kalah: 2
+Jumlah Point: 1
+
